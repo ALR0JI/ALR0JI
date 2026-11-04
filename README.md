@@ -4,7 +4,7 @@ Software Engineering student interested in software development, data systems an
  
 ## 🔧 What I work with
  
-- **Languages:** C++, C, SQL, Java, x86 Assembly (basic)
+- **Languages:** C++, C, SQL, Java
 - **Tools:** Git, Trello, Linux/Windows/macOS, Google Workspace, Office 365
 - **Generative AI:** prompt design for LLMs (zero-shot, few-shot, structured prompting), evaluation and optimization of model outputs
 
