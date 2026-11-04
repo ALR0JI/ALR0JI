@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Alejandro Robles 👋
+ 
+Software Engineering student interested in software development, data systems and applied generative AI. Currently looking for an internship in a team where I can contribute to real projects and keep growing.
+ 
+## 🔧 What I work with
+ 
+- **Languages:** C++, C, SQL, Java, x86 Assembly (basic)
+- **Tools:** Git, Trello, Linux/Windows/macOS, Google Workspace, Office 365
+- **Generative AI:** prompt design for LLMs (zero-shot, few-shot, structured prompting), evaluation and optimization of model outputs
 
-<!--
-**ALR0JI/ALR0JI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Featured projects
+ 
+- [**more-than-a-hack-2027**](https://github.com/amplius-devs/more-than-a-hack-2027) · Python
+- [**el-don-management-system**](https://github.com/ALR0JI/el-don-management-system) · Java
 
-Here are some ideas to get you started:
+## 🎓 Background
+ 
+- BSc in Software Engineering (Present)
+- IT Systems Intern (Feb to May 2026): hardware, software and network support, and computer lab administration
+- Prompt Engineering & Generative AI Applications, (2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Languages
+
+Spanish (native) · Catalan (native) · English (B2)
+ 
+## 📫 Get in touch
+ 
+[alejandroroblesjimenez@gmail.com](mailto:alejandroroblesjimenez@gmail.com)
