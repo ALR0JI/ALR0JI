@@ -10,7 +10,6 @@ Software Engineering student interested in software development, data systems an
 
 ## 📌 Featured projects
  
-- [**more-than-a-hack-2027**](https://github.com/amplius-devs/more-than-a-hack-2027) · Python
 - [**el-don-management-system**](https://github.com/ALR0JI/el-don-management-system) · Java
 
 ## 🎓 Background
